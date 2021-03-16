@@ -45,7 +45,7 @@ The main code of the project sits in _analysis_notebook.ipynb_. The notebook wal
 through the CRISP-DM process for
 analysing the dataset.
 
-The main findings of the code can be found at the post available [here]()
+The main findings of the code can be found at the post available [here](https://pepperhub.github.io/2021-03-15-airbnbdataexploration/).
 
 ## Licensing, Authors, Acknowledgements
 
